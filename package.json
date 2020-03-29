@@ -2,7 +2,7 @@
   "name": "stripe",
   "version": "1.0.0",
   "description": "Tutorial on stripe payment",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \\\"Error: no .. specified\\\" && exit 1"
   },
