@@ -1,0 +1,19 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "Tutorial on stripe payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no .. specified\\\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "stripe": "^8.38.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
